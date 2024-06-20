@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "D706E34D-AE70-44F6-929A-D0FAC17A949A",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:AsyncAwait.xcodeproj",
+      "identifier" : "5C7F2A112C24583300AAFD39",
+      "name" : "AsyncAwait"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:AsyncAwait.xcodeproj",
+        "identifier" : "5C7F2A212C24583400AAFD39",
+        "name" : "AsyncAwaitTests"
+      }
+    }
+  ],
+  "version" : 1
+}
